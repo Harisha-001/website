@@ -1,7 +1,7 @@
 let shareCount = 0;
 const minShares = 1;
 const maxShares = 2;
-const groupLink = "https://chat.whatsapp.com/YOUR_GROUP_LINK"; // Replace with your actual group link
+const groupLink = "https://whatsapp.com/channel/0029Vb5FIc63QxS8TU3Teu1M"; // Replace with your actual group link
 
 function selectOption(option) {
     if (option === 3) {
