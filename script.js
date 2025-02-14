@@ -1,6 +1,6 @@
 let shareCount = 0;
-const minShares = 10;
-const maxShares = 15;
+const minShares = 1;
+const maxShares = 2;
 const groupLink = "https://chat.whatsapp.com/YOUR_GROUP_LINK"; // Replace with your actual group link
 
 function selectOption(option) {
